@@ -10,10 +10,12 @@ For companies that handle large amounts of sensitive data, weak passwords can po
 Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. The alert will prompt  the user to choose from the following password criteria:
 1. Length (must be between 8 and 128 characters)
 2. Character types:
-    *Special characters (symbols)
-    *Numeric characters
-    *Lowercase characters
-    *Uppercase characters
+<ul>
+   <li>Special characters (symbols)</li>
+   <li>Numeric characters</li>
+   <li>Lowercase characters</li>
+   <li>Uppercase characters</li>
+</ul>   
 
 <h2>Password-Generator</h2>
 
