@@ -1,6 +1,17 @@
 # JavaScript-Password-Generator
 Assignment 3 JavaScript-Password Generator
 
+Context
+For companies that handle large amounts of sensitive data, weak passwords can pose a real security threat. An application that can generate strong passwords quickly and effortlessly saves employees time and ensures secure access to data.
+
+Acceptance Criteria
+Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. The alert will prompt  the user to choose from the following password criteria:
+Length (must be between 8 and 128 characters)
+Character types:
+Special characters (symbols)
+Numeric characters
+Lowercase characters
+Uppercase characters
 
 
 Password-Generator
